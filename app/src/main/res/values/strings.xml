@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="txtTitle">Restaurant Calculator</string>
+    <string name="calculatorPrompt">Enter cost of meal</string>
+    <string name="txtCalculateButton">Calculate</string>
+    <string name="spinnerPrompt">Select Tip Percentage</string>
+    <string name="totalCostAmount">Pay this amount</string>
+    <string-array name="precentTip">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+</resources>
